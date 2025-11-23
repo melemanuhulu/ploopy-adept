@@ -1,6 +1,7 @@
 # ploopy-adept
 
-This repository contains my custom **QMK firmware configuration for the Ploopy Adept trackball**.  
+This repository contains my custom QMK firmware configuration files and custom 3D printer files for the Ploopy Adept trackball.
+
 It includes advanced features such as:
 
 - Custom pointer acceleration and deceleration
