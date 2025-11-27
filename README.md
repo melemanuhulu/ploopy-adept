@@ -11,7 +11,7 @@ The hardware:
  - Has an extra layer that clamps around an [L-bracket](https://8020.net/4349.html) that can be attached to a standard tripod mount for easily adjustable, secure tenting
  - Accomodates [Bosch Rexroth ball transfer units](https://store.boschrexroth.com/en/us/p/ball-transfer-unit-r053010810)
  - Has one bearing postioned farther from the bottom of the mouse to shift the center of gravity and allow for a tenting at a steeper angle
- - Uses nuts and bolts to connect layers rather than screws (4 each: 8mm M3 socket head cap screws, M3 hex nuts, 8mm M2 socket head cap screws, and M2 hex nuts)
+ - Uses nuts and bolts to connect layers rather than screws threaded into plastic (4 each: 8mm M3 socket head cap screws, M3 hex nuts, 8mm M2 socket head cap screws, and M2 hex nuts)
  - Has raised buttons that connect to the main body using 4mm diameter × 2mm thick circular neodymium magnets (magnets are affixed using cyanoacrylate glue)
 
 ---
@@ -25,9 +25,9 @@ The firmware includes:
   - can be used for media control
     - up and down to control volume
     - left and right to scrub
-- A layer to open, close, and cycle through open tabs and apps, and a layer to do the same with virtual desktops
-- An editing layer backspace, delete, tab, escape, and enter, and quick access to arrow keys
-- A files laver with shortcuts
+- A navigation layer to open, close, and cycle through open tabs and apps, and a layer to do the same with virtual desktops
+- An editing layer with backspace, delete, tab, escape, and enter keys, and quick access to arrow keys
+- A files laver with shortcuts to save, search, rename, download, open file browser, select all, print, and print screen
 - A cut/copy/paste, browser back/forward, refresh layer
 - And more!
 
