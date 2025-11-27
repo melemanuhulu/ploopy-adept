@@ -6,6 +6,8 @@ This repository contains custom 3D printer files and custom QMK firmware configu
 
 ---
 
+![View from the top of the modified Ploopy Adept](https://github.com/melemanuhulu/ploopy-adept/blob/main/hardware/images/top-buttons-cropped.jpg)
+
 The hardware:
  - Is shorter than the original (front-to-back, not top-to-bottom)
  - Has an extra layer that clamps around an [L-bracket](https://8020.net/4349.html) that can be attached to a standard tripod mount for easily adjustable, secure tenting
