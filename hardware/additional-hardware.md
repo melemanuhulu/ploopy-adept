@@ -8,4 +8,5 @@ In addition to the hardware that comes with the original [Ploopy Adept](https://
 - (4) M2 socket head cap screws, 8mm long
 - (4) M2 hex nuts
 - (1) [L-bracket](https://8020.net/4349.html)
-- (1) standard adjustable tripod mount
+- (1) ball-head tripod mount
+- (1) acorn nut to secure the L-bracket to the tripod mount (usually 1/4-20)
