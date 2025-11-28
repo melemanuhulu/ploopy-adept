@@ -1,20 +1,24 @@
-![Top view](https://github.com/melemanuhulu/ploopy-adept/blob/main/hardware/images/top-buttons.jpg)
+# Hardware mod
+![Top view](https://github.com/melemanuhulu/ploopy-adept/blob/main/hardware/images/adept-top.jpg)
 The finished product
 
 ---
 
-![Top view without buttons](https://github.com/melemanuhulu/ploopy-adept/blob/main/hardware/images/top-magnets.jpg)
-Raised buttons affix to the main body using magnets
+![Top view without buttons](https://github.com/melemanuhulu/ploopy-adept/blob/main/hardware/images/adept-top-magnets-btus.jpg)
+- Roller bearings are replaced by BTUs
+- Magnets are permanently affixed to the top of the shell and the bottom of the buttons by CA glue
+- Raised buttons affix to the main body using magnets and are easily swappable
+- Access holes allow insertion of hex nuts after printing
 
 ---
 
-![Comparison with original](https://github.com/melemanuhulu/ploopy-adept/blob/main/hardware/images/mod-shell-v-orig.jpg)
+![Comparison with original](https://github.com/melemanuhulu/ploopy-adept/blob/main/hardware/images/adept-v-orig.jpg)
 Comparison with the original design
 
 ---
 
-![Extra layers](https://github.com/melemanuhulu/ploopy-adept/blob/main/hardware/images/mod-bottoms-v-orig.jpg)
-These two layers clamp around a bracket that can be connected to a standard tripod mount
+![Extra layers](https://github.com/melemanuhulu/ploopy-adept/blob/main/hardware/images/adept-bottom.jpg)
+An L-bracket is sandwiched between two bottom layers, which are held together securely with nuts and bolts
 
 ---
 
