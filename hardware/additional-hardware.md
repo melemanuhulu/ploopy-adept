@@ -1,5 +1,5 @@
 # Additional Hardware
-In addition to the hardware that comes with the original Ploopy [Adept](https://ploopy.co/adept-trackball/), this mod requires the following:
+In addition to the hardware that comes with the original [Ploopy Adept](https://ploopy.co/product-category/trackball/adept/), this mod requires the following:
 - 3 × [Bosch Rexroth BTUs](https://store.boschrexroth.com/en/us/p/ball-transfer-unit-r053010810)
 - 24 × 4mm diameter × 2mm thick magnets
 - CA glue
