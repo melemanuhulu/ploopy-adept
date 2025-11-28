@@ -1,6 +1,6 @@
 # Ploopy Adept
 
-The [Adept](https://ploopy.co/adept-trackball/) is an awsome open-source trackball by [Ploopy](https://ploopy.co/).
+The [Adept](https://ploopy.co/adept-trackball/) is an powerful open-source trackball by [Ploopy](https://ploopy.co/) running [QMK](https://qmk.fm/).
 
 This repository contains custom 3D models and custom QMK firmware configuration files for the Ploopy Adept trackball.
 
