@@ -1,8 +1,8 @@
 # Ploopy Adept
 
-The [Ploopy](https://ploopy.co/) [Adept](https://ploopy.co/adept-trackball/) is an awsome open-source trackball.
+The [Adept](https://ploopy.co/adept-trackball/) is an awsome open-source trackball by [Ploopy](https://ploopy.co/).
 
-This repository contains custom 3D printer files and custom QMK firmware configuration files for the Ploopy Adept trackball.
+This repository contains custom 3D models and custom QMK firmware configuration files for the Ploopy Adept trackball.
 
 ---
 
