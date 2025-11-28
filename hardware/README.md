@@ -5,7 +5,7 @@ The finished product
 ---
 
 ![Top view without buttons](https://github.com/melemanuhulu/ploopy-adept/blob/main/hardware/images/adept-top-magnets-btus.jpg)
-- Roller bearings are replaced by BTUs
+- Single-axis bearings are replaced by spherical ball transfer units
 - Magnets are permanently affixed to the top of the shell and the bottom of the buttons by CA glue
 - Raised buttons affix to the main body using magnets and are easily swappable
 - Access holes allow insertion of hex nuts after printing
