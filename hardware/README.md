@@ -1,5 +1,5 @@
 ![Top view](https://github.com/melemanuhulu/ploopy-adept/blob/main/hardware/images/top-buttons.jpg)
-View from the top
+The finished product
 
 ---
 
@@ -14,7 +14,7 @@ Comparison with the original design
 ---
 
 ![Extra layers](https://github.com/melemanuhulu/ploopy-adept/blob/main/hardware/images/mod-bottoms-v-orig.jpg)
-These two layers clamp around a bracket that can be used with a standard tripod mount
+These two layers clamp around a bracket that can be connected to a standard tripod mount
 
 ---
 
