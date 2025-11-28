@@ -1,0 +1,26 @@
+# QMK build artifacts
+*.elf
+*.hex
+*.bin
+*.uf2
+*.map
+*.dfu
+
+# QMK cache
+.qmk/
+
+# Object files
+*.o
+*.d
+
+# Build directory
+build/
+*.buildlog.json
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+
+# Python virtual env
+venv/
+.env/
