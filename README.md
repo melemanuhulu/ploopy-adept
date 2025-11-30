@@ -30,7 +30,7 @@ The firmware includes:
 - A navigation layer to open, close, and cycle through open tabs and apps, and a layer to do the same with virtual desktops
 - An editing layer with backspace, delete, tab, escape, and enter keys, and quick access to arrow keys
 - A files laver with shortcuts to save, search, rename, download, open file browser, select all, print, and print screen
-- A cut/copy/paste, browser back/forward, refresh layer
+- A cut/copy/paste and browser back/forward/refresh layer
 - And more!
 
 ---
