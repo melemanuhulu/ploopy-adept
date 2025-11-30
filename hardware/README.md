@@ -19,7 +19,7 @@ Comparison with the original design
 
 ![Extra layer](https://github.com/melemanuhulu/ploopy-adept/blob/main/hardware/images/adept-bottom.jpg)
 - An L-bracket is sandwiched between two bottom layers, which are held together securely with nuts and bolts
-- An acort nut is used to attach the L-bracket to a tripod mount
+- An acort nut and washer are used to attach the L-bracket to a tripod mount
 
 ---
 
