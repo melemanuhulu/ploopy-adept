@@ -12,7 +12,7 @@ The hardware:
  - Is shorter than the original (front-to-back, not top-to-bottom)
  - Has an extra layer that clamps around an L-bracket that can be attached to a standard tripod mount for easy adjustments and secure tenting
  - Uses ball transfer units rather than single-axis bearings
- - Has one bearing postioned higher in the shell of the mouse to allow steeper tenting to the left
+ - Has one bearing postioned higher in the shell of the mouse to allow for steeper tenting
  - Uses nuts and bolts to connect layers rather than screws threaded into plastic
  - Has raised buttons that connect to the main body using magnets
 
