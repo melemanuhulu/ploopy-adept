@@ -31,6 +31,7 @@ The firmware includes:
 - An editing layer with backspace, delete, tab, escape, and enter keys, and quick access to arrow keys
 - A files laver with shortcuts to save, search, rename, download, open file browser, select all, print, and print screen
 - A cut/copy/paste and browser back/forward/refresh layer
+- A 10° offset to so that trackball movements feel natural while maintaining all five fingers in "home positions" on five of the mouse's six buttons
 - And more!
 
 ---
