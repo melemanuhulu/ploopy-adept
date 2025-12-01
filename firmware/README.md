@@ -1,6 +1,6 @@
 Rather than keeping your hands on the keyboard and avoiding using the mouse, this firmware allows you to keep your hand on the mouse to complete many actions without needing to reach for the keyboard. It does so using built-in keyboard shortcuts, significantly reducing the need for precision mousing.
 
-Platform-agnositc shortcuts are used where possible. Where the only available keyboard shortcuts are OS-specific, QMK's OS detection is used. This works relatively well, but is not fool-proof, especiall when there is a dock between the computer and the mous.
+Platform-agnositc shortcuts are used where possible. Where the only available keyboard shortcuts are OS-specific, QMK's OS detection is used. This works relatively well, but is not fool-proof, especiall when there is a dock between the computer and the mouse. The detected OS can be manually overriden with a couple of button presses.
 
 There are many custom keycodes and several combos, all documented in comments in the keymap.c file.
 There are many tap-hold keys.
